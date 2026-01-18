@@ -1,5 +1,6 @@
 {
   "title": "Studierenden-FAQ-GPT v0.7",
+  "subtitle": "Antwort-Vorlagen für das Prüfungsamt der Fakultät für Physik, LMU München",
   "model-name": "Qwen 3 30B A3B Instruct 2507",
   "model": "qwen3-30b-a3b-instruct-2507",
   "temperature": 0.0,
@@ -13,5 +14,8 @@
       "role": "info",
       "content": "Ich bin der Studierenden-FAQ-GPT v0.7 für das Prüfungsamt der Fakultät für Physik an der LMU München. Ich erstelle Antwort-Vorlagen für Mitarbeitende."
     }
-  ]
+  ],
+  "arcana": {
+    "id": "dirk.otten01/studierenden-faq-gpt"
+  }
 }
