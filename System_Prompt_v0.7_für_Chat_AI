@@ -17,5 +17,9 @@
   ],
   "arcana": {
     "id": "dirk.otten01/studierenden-faq-gpt"
+  },
+  "tools": {
+    "gwdg": true,
+    "arcana": true
   }
 }
