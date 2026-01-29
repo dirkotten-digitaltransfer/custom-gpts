@@ -1,8 +1,8 @@
 {
 "title": "TV-L Assistent (Pilotteam 2)",
 "subtitle": "Erstellt F10/F60 Tätigkeitsbeschreibungen für die Physik - LMU München",
-"model-name": "Meta Llama 3.3 70B Instruct",
-"model": "meta-llama-3.3-70b-instruct",
+"model-name": "Qwen 3 30B A3B Instruct 2507",
+"model": "qwen3-30b-a3b-instruct-2507",
 "temperature": 0.0,
 "top_p": 0.05,
 "messages": [
